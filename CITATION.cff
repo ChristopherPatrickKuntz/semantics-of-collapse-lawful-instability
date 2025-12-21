@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "The Semantics of Collapse: Lawful Instability in Agentic Systems"
+message: "If you use this work, please cite it as below."
+type: article
+authors:
+  - family-names: Kuntz
+    given-names: Christopher
+abstract: >-
+  This paper identifies a structural blind spot in contemporary security models:
+  failure modes in which systems collapse while all actions remain valid,
+  authorized, and policy-compliant. The work formalizes this failure class as
+  lawful instability and proposes Safe-to-Exist Analysis (SEA) as a complementary
+  security primitive using conservation-based global invariants.
+keywords:
+  - lawful instability
+  - agentic systems
+  - safe-to-exist analysis
+  - security frameworks
+  - control theory
+  - algorithmic game theory
+version: "1.0"
+date-released: 2025-12-21
+license: CC-BY-4.0
+repository-code: https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
