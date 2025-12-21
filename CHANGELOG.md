@@ -18,6 +18,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - CITATION.cff for machine-readable citation
 - CC BY 4.0 license
 
-### Archived
+### Submitted
 
-- HAL Open Science: hal-04895082
+- HAL Open Science (awaiting moderation)

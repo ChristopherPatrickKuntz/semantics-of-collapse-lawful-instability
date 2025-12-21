@@ -148,7 +148,7 @@ It is published as a working paper and does not claim peer review or institution
 
 ## Publication Record
 
-This work is archived on HAL Open Science: [hal-04895082](https://hal.science/hal-04895082)  
+This work is submitted to HAL Open Science (awaiting moderation).  
 GitHub serves as the canonical technical record.
 
 ---
@@ -180,12 +180,6 @@ If citing the repository itself:
 ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability (v1.0)
 https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
 ```
-
-### HAL Archive
-
-This work is archived on HAL Open Science:  
-**HAL ID:** hal-04895082  
-**URL:** https://hal.science/hal-04895082
 
 ---
 
