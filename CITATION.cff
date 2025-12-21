@@ -23,3 +23,7 @@ date-released: 2025-12-21
 license: CC-BY-4.0
 repository-code: https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
 url: https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
+identifiers:
+  - type: other
+    value: hal-04895082
+    description: HAL Open Science archive identifier

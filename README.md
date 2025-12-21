@@ -42,6 +42,11 @@ When rational optimizers interact with systems at computational speed, they expl
 
 Traditional security implicitly assumes validity and safety are correlated. SEA reveals they are orthogonal.
 
+![Validity-Safety Matrix](assets/validity-safety-matrix.svg)
+
+<details>
+<summary>ASCII version (for plaintext contexts)</summary>
+
 ```
                     SYSTEM STABILITY
                           ↑
@@ -76,6 +81,8 @@ Traditional security implicitly assumes validity and safety are correlated. SEA 
                         Stable
                           ↓
 ```
+
+</details>
 
 **Top-Right Quadrant: The Blind Spot**
 
@@ -141,8 +148,44 @@ It is published as a working paper and does not claim peer review or institution
 
 ## Publication Record
 
-This work is archived via HAL Open Science.  
+This work is archived on HAL Open Science: [hal-04895082](https://hal.science/hal-04895082)  
 GitHub serves as the canonical technical record.
+
+---
+
+## How to Cite
+
+### Preferred Citation (APA)
+
+Kuntz, C. (2025). *The Semantics of Collapse: Lawful Instability in Agentic Systems*. Independent Research. https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
+
+### BibTeX
+
+```bibtex
+@article{kuntz2025semantics,
+  title={The Semantics of Collapse: Lawful Instability in Agentic Systems},
+  author={Kuntz, Christopher},
+  year={2025},
+  month={December},
+  note={Independent Research, Working Paper},
+  url={https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability}
+}
+```
+
+### Repository Citation
+
+If citing the repository itself:
+
+```
+ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability (v1.0)
+https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
+```
+
+### HAL Archive
+
+This work is archived on HAL Open Science:  
+**HAL ID:** hal-04895082  
+**URL:** https://hal.science/hal-04895082
 
 ---
 
