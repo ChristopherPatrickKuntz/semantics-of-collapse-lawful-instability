@@ -177,7 +177,7 @@ Kuntz, C. (2025). *The Semantics of Collapse: Lawful Instability in Agentic Syst
 If citing the repository itself:
 
 ```
-ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability (v1.0)
+ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability (v1.1)
 https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
 ```
 
