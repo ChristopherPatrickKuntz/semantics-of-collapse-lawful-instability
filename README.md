@@ -14,6 +14,8 @@ failure modes in which systems collapse while all actions remain valid, authoriz
 
 The work formalizes this failure class as **lawful instability** and demonstrates why detection-based security paradigms are insufficient in agentic environments.
 
+[Read the paper (PDF)](The_Semantics_of_Collapse_Lawful_Instability_in_Agentic_Systems.pdf)
+
 ---
 
 ## Core Claim
@@ -134,21 +136,22 @@ It is published as a working paper and does not claim peer review or institution
 
 ## Repository Contents
 
-- `README.md` - This document
-- `LICENSE` - CC BY 4.0
-- `CITATION.cff` - Machine-readable citation
-- `The_Semantics_of_Collapse_Lawful_Instability_in_Agentic_Systems.pdf` - Canonical paper
-- `docs/` - Supporting documentation
-  - `abstract.md` - Full abstract
-  - `framework-summary.md` - SEA framework overview
-  - `glossary.md` - Key terms
-  - `relationship-to-other-work.md` - Context within broader research
+- [README.md](README.md) - This document
+- [LICENSE](LICENSE) - CC BY 4.0
+- [CITATION.cff](CITATION.cff) - Machine-readable citation
+- [The_Semantics_of_Collapse_Lawful_Instability_in_Agentic_Systems.pdf](The_Semantics_of_Collapse_Lawful_Instability_in_Agentic_Systems.pdf) - Canonical paper
+- [docs/](docs/) - Supporting documentation
+  - [abstract.md](docs/abstract.md) - Full abstract
+  - [framework-summary.md](docs/framework-summary.md) - SEA framework overview
+  - [glossary.md](docs/glossary.md) - Key terms
+  - [relationship-to-other-work.md](docs/relationship-to-other-work.md) - Context within broader research
 
 ---
 
 ## Publication Record
 
-This work is submitted to HAL Open Science (awaiting moderation).  
+The [December 21, 2025 release record](CHANGELOG.md) lists a submission to HAL Open Science as awaiting moderation. No later moderation outcome is documented in this repository.
+
 GitHub serves as the canonical technical record.
 
 ---
@@ -157,14 +160,14 @@ GitHub serves as the canonical technical record.
 
 ### Preferred Citation (APA)
 
-Kuntz, C. (2025). *The Semantics of Collapse: Lawful Instability in Agentic Systems*. Independent Research. https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
+Kuntz, C. P. (2025). *The Semantics of Collapse: Lawful Instability in Agentic Systems*. Independent Research. https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
 
 ### BibTeX
 
 ```bibtex
 @article{kuntz2025semantics,
   title={The Semantics of Collapse: Lawful Instability in Agentic Systems},
-  author={Kuntz, Christopher},
+  author={Kuntz, Christopher Patrick},
   year={2025},
   month={December},
   note={Independent Research, Working Paper},

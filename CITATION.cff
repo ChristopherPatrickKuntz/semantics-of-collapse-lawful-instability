@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 title: "The Semantics of Collapse: Lawful Instability in Agentic Systems"
 message: "If you use this work, please cite it as below."
-type: article
 authors:
   - family-names: Kuntz
     given-names: Christopher Patrick
@@ -25,3 +24,17 @@ date-released: 2025-12-26
 license: CC-BY-4.0
 repository-code: https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
 url: https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
+preferred-citation:
+  type: article
+  title: "The Semantics of Collapse: Lawful Instability in Agentic Systems"
+  authors:
+    - family-names: Kuntz
+      given-names: Christopher Patrick
+      email: Christopher@cpk.solutions
+      affiliation: Independent Security Research
+  year: 2025
+  month: 12
+  version: "1.1"
+  status: preprint
+  notes: "Independent Research, Working Paper"
+  url: https://github.com/ChristopherPatrickKuntz/semantics-of-collapse-lawful-instability
